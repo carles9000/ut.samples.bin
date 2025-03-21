@@ -5,7 +5,8 @@
 
 ## These demos are ready to be run and see what you can do with UT.
 
-* U-DBU - Example of DBF handling
+* U-DBU - Handling dbf with UT (Dbu)
+* U-SQL - Managing MySQL with UT
 
 
 <hr> 
